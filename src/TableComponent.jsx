@@ -55,7 +55,7 @@ const TableComponent = () => {
     <div className="w-full max-w-full px-6 m-auto py-[64px] bg-gray-100 ">
       <div className="w-full flex flex-col gap-6 max-w-full lg:max-w-[91.11%] m-auto">
         {/* Filters */}
-        <div className="flex items-center gap-4 mb-4">
+        <div className="w-full max-w-full flex flex-wrap items-center gap-4 mb-4">
           <button className="px-[16px] py-[11px] bg-[#E3F2FE] text-[#1273EB] text-base font-medium rounded-md">
             All
           </button>
